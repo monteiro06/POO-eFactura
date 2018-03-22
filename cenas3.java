@@ -75,9 +75,14 @@ public class EncEficiente
     }
 
     public String getnome(){}
+    
     public int getnif(){}
+    
     public String getmorada(){}
+    
     public int getcodigo(){}
+    
     public Localdate getdata(){}
+    
     public ArrayList<LinhaEncomenda> getlinhas(){}
 }
